@@ -1,0 +1,682 @@
+[
+  {
+    "id": 1,
+    "question": "What is the official name of the brand?",
+    "answer": "ReLife.",
+    "category": "Brand Overview",
+    "metadata": {
+      "section": "Brand Overview & General Information",
+      "related_topics": ["brand", "company name"]
+    }
+  },
+  {
+    "id": 2,
+    "question": "What are the primary taglines of ReLife?",
+    "answer": "\"Health is Wealth!\" and \"Wellness With Confidence\".",
+    "category": "Brand Overview",
+    "metadata": {
+      "section": "Brand Overview & General Information",
+      "related_topics": ["slogan", "tagline", "motto"]
+    }
+  },
+  {
+    "id": 3,
+    "question": "What business model and type of store does ReLife operate?",
+    "answer": "ReLife operates as a Direct-to-Consumer (D2C) Ayurvedic men's wellness e-commerce store hosted on Shopify.",
+    "category": "Brand Overview",
+    "metadata": {
+      "section": "Brand Overview & General Information",
+      "related_topics": ["business model", "ecommerce", "shopify", "d2c"]
+    }
+  },
+  {
+    "id": 4,
+    "question": "What primary product categories does ReLife focus on?",
+    "answer": "ReLife focuses on men's sexual wellness, performance, stamina, male fertility, and personal care.",
+    "category": "Brand Overview",
+    "metadata": {
+      "section": "Brand Overview & General Information",
+      "related_topics": ["product range", "categories", "mens health"]
+    }
+  },
+  {
+    "id": 5,
+    "question": "What is the legal status of ReLife products?",
+    "answer": "All ReLife products are Ayurvedic proprietary/herbal wellness products. They are NOT allopathic medicines or prescription drugs.",
+    "category": "Brand Overview",
+    "metadata": {
+      "section": "Brand Overview & General Information",
+      "related_topics": ["legal status", "ayurvedic", "non-prescription"]
+    }
+  },
+  {
+    "id": 6,
+    "question": "Are ReLife products allopathic medicines or prescription drugs?",
+    "answer": "No. ReLife products are classified as Ayurvedic proprietary/herbal wellness products and are not allopathic medicines or prescription drugs.",
+    "category": "Brand Overview",
+    "metadata": {
+      "section": "Brand Overview & General Information",
+      "related_topics": ["legal status", "ayurvedic", "allopathy"]
+    }
+  },
+  {
+    "id": 7,
+    "question": "What is the official website URL for ReLife?",
+    "answer": "https://relifestore.in",
+    "category": "Customer Contact & Support",
+    "metadata": {
+      "section": "Brand Overview & General Information",
+      "related_topics": ["website", "url", "online store"]
+    }
+  },
+  {
+    "id": 8,
+    "question": "What is the phone number and WhatsApp contact for ReLife customer support?",
+    "answer": "+91 7015846481",
+    "category": "Customer Contact & Support",
+    "metadata": {
+      "section": "Brand Overview & General Information",
+      "related_topics": ["phone", "whatsapp", "contact"]
+    }
+  },
+  {
+    "id": 9,
+    "question": "What is the official customer support email address for ReLife?",
+    "answer": "relifemensclinic@gmail.com",
+    "category": "Customer Contact & Support",
+    "metadata": {
+      "section": "Brand Overview & General Information",
+      "related_topics": ["email", "support", "helpdesk"]
+    }
+  },
+  {
+    "id": 10,
+    "question": "What is the physical business address of ReLife?",
+    "answer": "Sec 23, Bhiwani, Haryana - 127021, India.",
+    "category": "Brand Overview",
+    "metadata": {
+      "section": "Brand Overview & General Information",
+      "related_topics": ["address", "location", "headquarters"]
+    }
+  },
+  {
+    "id": 11,
+    "question": "What is the price, MRP, and discount for ReLife Erection Support Capsules?",
+    "answer": "Selling Price: INR 1,499 | MRP: INR 2,499 | Offer: Flat 40% OFF (Save INR 1,000).",
+    "category": "Product Pricing & Offers",
+    "metadata": {
+      "product_name": "ReLife Erection Support Capsules",
+      "section": "Product Pricing, Offers, and Bundles"
+    }
+  },
+  {
+    "id": 12,
+    "question": "How much can I save on ReLife Erection Support Capsules?",
+    "answer": "You save INR 1,000 with a flat 40% discount off the MRP of INR 2,499, bringing the selling price to INR 1,499.",
+    "category": "Product Pricing & Offers",
+    "metadata": {
+      "product_name": "ReLife Erection Support Capsules",
+      "section": "Product Pricing, Offers, and Bundles"
+    }
+  },
+  {
+    "id": 13,
+    "question": "What is the price, MRP, and discount for ReLife Timing Support Capsules?",
+    "answer": "Selling Price: INR 1,499 | MRP: INR 2,499 | Offer: Flat 40% OFF (Save INR 1,000).",
+    "category": "Product Pricing & Offers",
+    "metadata": {
+      "product_name": "ReLife Timing Support Capsules",
+      "section": "Product Pricing, Offers, and Bundles"
+    }
+  },
+  {
+    "id": 14,
+    "question": "How much do ReLife Timing Support Capsules cost after discount?",
+    "answer": "ReLife Timing Support Capsules cost INR 1,499 after a 40% discount off the original MRP of INR 2,499.",
+    "category": "Product Pricing & Offers",
+    "metadata": {
+      "product_name": "ReLife Timing Support Capsules",
+      "section": "Product Pricing, Offers, and Bundles"
+    }
+  },
+  {
+    "id": 15,
+    "question": "What is the price, MRP, capsule count, and discount for ReLife Sperm Booster Capsules?",
+    "answer": "Selling Price: INR 1,299 | MRP: INR 1,999 | Quantity: 60 Capsules | Offer: Flat 35% OFF (Save INR 700).",
+    "category": "Product Pricing & Offers",
+    "metadata": {
+      "product_name": "ReLife Sperm Booster Capsules",
+      "section": "Product Pricing, Offers, and Bundles"
+    }
+  },
+  {
+    "id": 16,
+    "question": "How many capsules are included in a bottle of ReLife Sperm Booster Capsules?",
+    "answer": "There are 60 capsules per bottle.",
+    "category": "Product Details",
+    "metadata": {
+      "product_name": "ReLife Sperm Booster Capsules",
+      "section": "Product Pricing, Offers, and Bundles"
+    }
+  },
+  {
+    "id": 17,
+    "question": "What is the price, MRP, volume, and discount for ReLife Men's Wellness Oil?",
+    "answer": "Selling Price: INR 699 | MRP: INR 999 | Quantity: 20ml Spray | Offer: Flat 30% OFF (Save INR 300).",
+    "category": "Product Pricing & Offers",
+    "metadata": {
+      "product_name": "ReLife Men's Wellness Oil",
+      "section": "Product Pricing, Offers, and Bundles"
+    }
+  },
+  {
+    "id": 18,
+    "question": "What is the volume size of ReLife Men's Wellness Oil?",
+    "answer": "It comes in a 20ml spray bottle.",
+    "category": "Product Details",
+    "metadata": {
+      "product_name": "ReLife Men's Wellness Oil",
+      "section": "Product Pricing, Offers, and Bundles"
+    }
+  },
+  {
+    "id": 19,
+    "question": "What is the price, MRP, and offer for the Men's Performance Duo Combo?",
+    "answer": "Selling Price: INR 2,499 | MRP: INR 4,998 | Offer: Buy Combo & Get 50% OFF (Save INR 2,499).",
+    "category": "Bundles & Offers",
+    "metadata": {
+      "product_name": "Men's Performance Duo",
+      "section": "Product Pricing, Offers, and Bundles"
+    }
+  },
+  {
+    "id": 20,
+    "question": "What is the price, MRP, and offer for the Men's Performance & Vitality Combo?",
+    "answer": "Selling Price: INR 2,700 | MRP: INR 5,897 | Offer: Bundle Savings 54% OFF (Save INR 3,197).",
+    "category": "Bundles & Offers",
+    "metadata": {
+      "product_name": "Men's Performance & Vitality Combo",
+      "section": "Product Pricing, Offers, and Bundles"
+    }
+  },
+  {
+    "id": 21,
+    "question": "What is the price, MRP, and offer for the Performance & Vitality Plus Combo?",
+    "answer": "Selling Price: INR 3,999 | MRP: INR 8,999 | Offer: Mega Bundle 55% OFF (Save INR 5,000).",
+    "category": "Bundles & Offers",
+    "metadata": {
+      "product_name": "Performance & Vitality Plus Combo",
+      "section": "Product Pricing, Offers, and Bundles"
+    }
+  },
+  {
+    "id": 22,
+    "question": "What are the key ingredients and primary benefits of ReLife Erection Support Capsules?",
+    "answer": "Ingredients: Ashwagandha, Shatavari, Shilajit, Safed Musli, Kaunch Beej, Kesar, Zinc, Loh Bhasma. Benefits: Erection support, stamina, daily energy, and intimate confidence.",
+    "category": "Product Details & Ingredients",
+    "metadata": {
+      "product_name": "ReLife Erection Support Capsules",
+      "section": "Product Details, Ingredients, & Benefits"
+    }
+  },
+  {
+    "id": 23,
+    "question": "Which ingredients are in ReLife Erection Support Capsules?",
+    "answer": "ReLife Erection Support Capsules contain Ashwagandha, Shatavari, Shilajit, Safed Musli, Kaunch Beej, Kesar, Zinc, and Loh Bhasma.",
+    "category": "Product Details & Ingredients",
+    "metadata": {
+      "product_name": "ReLife Erection Support Capsules",
+      "section": "Product Details, Ingredients, & Benefits"
+    }
+  },
+  {
+    "id": 24,
+    "question": "What are the key ingredients and primary benefits of ReLife Timing Support Capsules?",
+    "answer": "Ingredients: Kaunch Beej, Shatavari, Akarkara, Salam Mishri, Ashwagandha, Shilajit, Safed Musli. Benefits: Performance control, stamina, ejaculatory timing, and stress reduction.",
+    "category": "Product Details & Ingredients",
+    "metadata": {
+      "product_name": "ReLife Timing Support Capsules",
+      "section": "Product Details, Ingredients, & Benefits"
+    }
+  },
+  {
+    "id": 25,
+    "question": "Which herbal ingredients are included in ReLife Timing Support Capsules?",
+    "answer": "ReLife Timing Support Capsules contain Kaunch Beej, Shatavari, Akarkara, Salam Mishri, Ashwagandha, Shilajit, and Safed Musli.",
+    "category": "Product Details & Ingredients",
+    "metadata": {
+      "product_name": "ReLife Timing Support Capsules",
+      "section": "Product Details, Ingredients, & Benefits"
+    }
+  },
+  {
+    "id": 26,
+    "question": "What are the key ingredients and primary benefits of ReLife Sperm Booster Capsules?",
+    "answer": "Ingredients: Kaunch Beej, Ashwagandha, Shilajit, Safed Musli, Vidharikand, Gokhru, Tulsi. Benefits: Sperm quality, motility enhancement, sperm count support, and male fertility wellness.",
+    "category": "Product Details & Ingredients",
+    "metadata": {
+      "product_name": "ReLife Sperm Booster Capsules",
+      "section": "Product Details, Ingredients, & Benefits"
+    }
+  },
+  {
+    "id": 27,
+    "question": "Which ingredients support male fertility in ReLife Sperm Booster Capsules?",
+    "answer": "Kaunch Beej, Ashwagandha, Shilajit, Safed Musli, Vidharikand, Gokhru, and Tulsi.",
+    "category": "Product Details & Ingredients",
+    "metadata": {
+      "product_name": "ReLife Sperm Booster Capsules",
+      "section": "Product Details, Ingredients, & Benefits"
+    }
+  },
+  {
+    "id": 28,
+    "question": "What are the key ingredients and primary benefits of ReLife Men's Wellness Oil?",
+    "answer": "Ingredients: Tila (Sesame) Oil, Clove (Lavang), Ajwain, Black Pepper, Dry Ginger, Fenugreek. Benefits: External massage oil for relaxation, circulation, and local muscle tone improvement.",
+    "category": "Product Details & Ingredients",
+    "metadata": {
+      "product_name": "ReLife Men's Wellness Oil",
+      "section": "Product Details, Ingredients, & Benefits"
+    }
+  },
+  {
+    "id": 29,
+    "question": "How should ReLife Men's Wellness Oil be used?",
+    "answer": "ReLife Men's Wellness Oil is for external application and massage only.",
+    "category": "Usage & Dosage",
+    "metadata": {
+      "product_name": "ReLife Men's Wellness Oil",
+      "section": "Product Details, Ingredients, & Benefits"
+    }
+  },
+  {
+    "id": 30,
+    "question": "Can ReLife Men's Wellness Oil be ingested orally?",
+    "answer": "No. ReLife Men's Wellness Oil is meant strictly for external massage and application.",
+    "category": "Usage & Dosage",
+    "metadata": {
+      "product_name": "ReLife Men's Wellness Oil",
+      "section": "Product Details, Ingredients, & Benefits"
+    }
+  },
+  {
+    "id": 31,
+    "question": "What products are included in the Men's Performance Duo Combo?",
+    "answer": "ReLife Erection Support Capsules + ReLife Timing Support Capsules.",
+    "category": "Bundles & Offers",
+    "metadata": {
+      "product_name": "Men's Performance Duo",
+      "section": "Product Details, Ingredients, & Benefits"
+    }
+  },
+  {
+    "id": 32,
+    "question": "What products are included in the Men's Performance & Vitality Combo?",
+    "answer": "ReLife Erection Support Capsules + ReLife Timing Support Capsules + ReLife Men's Wellness Oil.",
+    "category": "Bundles & Offers",
+    "metadata": {
+      "product_name": "Men's Performance & Vitality Combo",
+      "section": "Product Details, Ingredients, & Benefits"
+    }
+  },
+  {
+    "id": 33,
+    "question": "What products are included in the Performance & Vitality Plus Combo?",
+    "answer": "1x ReLife Erection Support Capsules + 2x ReLife Timing Support Capsules + 2x ReLife Men's Wellness Oil (5 items total).",
+    "category": "Bundles & Offers",
+    "metadata": {
+      "product_name": "Performance & Vitality Plus Combo",
+      "section": "Product Details, Ingredients, & Benefits"
+    }
+  },
+  {
+    "id": 34,
+    "question": "What product should be recommended for weak erections, loss of hardness, or low libido?",
+    "answer": "Primary Recommendation: ReLife Erection Support Capsules. Upsell Options: Men's Performance Duo or Men's Performance & Vitality Combo.",
+    "category": "Symptom Recommendations",
+    "metadata": {
+      "symptom": "erection difficulty, loss of hardness, low libido",
+      "section": "Symptom Recommendations & Upselling"
+    }
+  },
+  {
+    "id": 35,
+    "question": "What should I take if I am experiencing loss of hardness during intimacy?",
+    "answer": "ReLife Erection Support Capsules are recommended. For comprehensive results, consider upgrading to the Men's Performance Duo or Men's Performance & Vitality Combo.",
+    "category": "Symptom Recommendations",
+    "metadata": {
+      "symptom": "erection difficulty",
+      "section": "Symptom Recommendations & Upselling"
+    }
+  },
+  {
+    "id": 36,
+    "question": "What product should be recommended for premature ejaculation, early discharge, or short timing?",
+    "answer": "Primary Recommendation: ReLife Timing Support Capsules. Upsell Options: Men's Performance Duo or ReLife Men's Wellness Oil.",
+    "category": "Symptom Recommendations",
+    "metadata": {
+      "symptom": "premature ejaculation, early discharge, timing issue",
+      "section": "Symptom Recommendations & Upselling"
+    }
+  },
+  {
+    "id": 37,
+    "question": "How can I improve my ejaculatory timing and sexual performance control?",
+    "answer": "ReLife Timing Support Capsules are designed specifically to support performance control, stamina, and ejaculatory timing. Combining them in the Men's Performance Duo offers balanced support.",
+    "category": "Symptom Recommendations",
+    "metadata": {
+      "symptom": "early discharge",
+      "section": "Symptom Recommendations & Upselling"
+    }
+  },
+  {
+    "id": 38,
+    "question": "What product should be recommended for fatigue, general weakness, or low stamina?",
+    "answer": "Primary Recommendation: ReLife Erection Support Capsules or ReLife Timing Support Capsules. Upsell Options: Men's Performance Duo.",
+    "category": "Symptom Recommendations",
+    "metadata": {
+      "symptom": "fatigue, weakness, low stamina",
+      "section": "Symptom Recommendations & Upselling"
+    }
+  },
+  {
+    "id": 39,
+    "question": "What product should be recommended for male fertility concerns, low sperm count, or poor motility?",
+    "answer": "Primary Recommendation: ReLife Sperm Booster Capsules. Special Advice: Advise the customer to consult a medical specialist alongside supplement use.",
+    "category": "Symptom Recommendations",
+    "metadata": {
+      "symptom": "fertility, low sperm count, motility",
+      "section": "Symptom Recommendations & Upselling"
+    }
+  },
+  {
+    "id": 40,
+    "question": "Should I consult a medical doctor when taking ReLife Sperm Booster Capsules for fertility?",
+    "answer": "Yes. While ReLife Sperm Booster Capsules support sperm quality, motility, and count, customers with fertility concerns should always consult a medical specialist alongside supplement use.",
+    "category": "Symptom Recommendations",
+    "metadata": {
+      "symptom": "fertility",
+      "section": "Symptom Recommendations & Upselling"
+    }
+  },
+  {
+    "id": 41,
+    "question": "What product should be recommended for external muscle tone, tension, or local circulation?",
+    "answer": "Primary Recommendation: ReLife Men's Wellness Oil. Upsell Options: Men's Performance & Vitality Combo.",
+    "category": "Symptom Recommendations",
+    "metadata": {
+      "symptom": "muscle tone, tension, circulation",
+      "section": "Symptom Recommendations & Upselling"
+    }
+  },
+  {
+    "id": 42,
+    "question": "What product should be recommended for a full intimate performance routine?",
+    "answer": "Primary Recommendation: Men's Performance & Vitality Combo (3 products). Upsell Options: Performance & Vitality Plus Combo (5 products for extended use).",
+    "category": "Symptom Recommendations",
+    "metadata": {
+      "symptom": "full performance routine",
+      "section": "Symptom Recommendations & Upselling"
+    }
+  },
+  {
+    "id": 43,
+    "question": "What clinical evidence supports Ashwagandha for male health?",
+    "answer": "Clinical studies demonstrate improvements in sperm count, semen volume, sperm motility, and sexual function scores (DISF-M/IIEF), along with cortisol reduction and testosterone support.",
+    "category": "Ingredient Science",
+    "metadata": {
+      "ingredient": "Ashwagandha",
+      "section": "Ingredient Science & Research Evidence"
+    }
+  },
+  {
+    "id": 44,
+    "question": "What clinical evidence supports Shilajit?",
+    "answer": "90-day human clinical trials show statistically significant increases in total testosterone, free testosterone, and DHEAS levels compared to placebo.",
+    "category": "Ingredient Science",
+    "metadata": {
+      "ingredient": "Shilajit",
+      "section": "Ingredient Science & Research Evidence"
+    }
+  },
+  {
+    "id": 45,
+    "question": "Does Shilajit increase testosterone levels in clinical trials?",
+    "answer": "Yes. 90-day human clinical trials demonstrated significant increases in total testosterone, free testosterone, and DHEAS levels compared to placebo.",
+    "category": "Ingredient Science",
+    "metadata": {
+      "ingredient": "Shilajit",
+      "section": "Ingredient Science & Research Evidence"
+    }
+  },
+  {
+    "id": 46,
+    "question": "What scientific evidence supports Mucuna Pruriens (Kaunch Beej)?",
+    "answer": "Research indicates significant enhancement in sperm concentration, motility, and seminal antioxidant levels. It serves as a direct natural source of L-DOPA.",
+    "category": "Ingredient Science",
+    "metadata": {
+      "ingredient": "Kaunch Beej (Mucuna Pruriens)",
+      "section": "Ingredient Science & Research Evidence"
+    }
+  },
+  {
+    "id": 47,
+    "question": "What is the key active bio-compound found naturally in Mucuna Pruriens (Kaunch Beej)?",
+    "answer": "Kaunch Beej (Mucuna Pruriens) is a direct natural source of L-DOPA.",
+    "category": "Ingredient Science",
+    "metadata": {
+      "ingredient": "Kaunch Beej",
+      "section": "Ingredient Science & Research Evidence"
+    }
+  },
+  {
+    "id": 48,
+    "question": "What research supports Safed Musli?",
+    "answer": "Preclinical models support its role in enhancing sexual vigor, supporting sperm count, and increasing cellular antioxidant status.",
+    "category": "Ingredient Science",
+    "metadata": {
+      "ingredient": "Safed Musli",
+      "section": "Ingredient Science & Research Evidence"
+    }
+  },
+  {
+    "id": 49,
+    "question": "What clinical evidence supports Saffron (Kesar)?",
+    "answer": "Human clinical trials and meta-analyses confirm improvements in penile rigidity, tumescence, and overall IIEF satisfaction scores.",
+    "category": "Ingredient Science",
+    "metadata": {
+      "ingredient": "Saffron (Kesar)",
+      "section": "Ingredient Science & Research Evidence"
+    }
+  },
+  {
+    "id": 50,
+    "question": "What is the normal laboratory range for Total Testosterone in men?",
+    "answer": "300 - 1,000 ng/dL.",
+    "category": "Lab Reference Ranges",
+    "metadata": {
+      "test_name": "Total Testosterone",
+      "section": "Standard Lab Reference Ranges"
+    }
+  },
+  {
+    "id": 51,
+    "question": "What is the normal laboratory range for Free Testosterone in men?",
+    "answer": "9 - 30 ng/dL.",
+    "category": "Lab Reference Ranges",
+    "metadata": {
+      "test_name": "Free Testosterone",
+      "section": "Standard Lab Reference Ranges"
+    }
+  },
+  {
+    "id": 52,
+    "question": "What is the standard reference range for TSH (Thyroid Stimulating Hormone)?",
+    "answer": "0.4 - 4.0 mIU/L.",
+    "category": "Lab Reference Ranges",
+    "metadata": {
+      "test_name": "TSH",
+      "section": "Standard Lab Reference Ranges"
+    }
+  },
+  {
+    "id": 53,
+    "question": "What are the reference ranges for Fasting Blood Sugar (FBS)?",
+    "answer": "Normal: < 100 mg/dL | Prediabetes: 100 - 125 mg/dL | Diabetes: >= 126 mg/dL.",
+    "category": "Lab Reference Ranges",
+    "metadata": {
+      "test_name": "Fasting Blood Sugar",
+      "section": "Standard Lab Reference Ranges"
+    }
+  },
+  {
+    "id": 54,
+    "question": "What Fasting Blood Sugar level indicates prediabetes?",
+    "answer": "A Fasting Blood Sugar (FBS) reading between 100 mg/dL and 125 mg/dL indicates prediabetes.",
+    "category": "Lab Reference Ranges",
+    "metadata": {
+      "test_name": "Fasting Blood Sugar",
+      "section": "Standard Lab Reference Ranges"
+    }
+  },
+  {
+    "id": 55,
+    "question": "What are the diagnostic thresholds for HbA1c?",
+    "answer": "Normal: < 5.7% | Prediabetes: 5.7% - 6.4% | Diabetes: >= 6.5%.",
+    "category": "Lab Reference Ranges",
+    "metadata": {
+      "test_name": "HbA1c",
+      "section": "Standard Lab Reference Ranges"
+    }
+  },
+  {
+    "id": 56,
+    "question": "What HbA1c level is considered normal?",
+    "answer": "An HbA1c level under 5.7% is considered normal.",
+    "category": "Lab Reference Ranges",
+    "metadata": {
+      "test_name": "HbA1c",
+      "section": "Standard Lab Reference Ranges"
+    }
+  },
+  {
+    "id": 57,
+    "question": "What are the lower reference limits for Semen Analysis according to the WHO 6th Edition?",
+    "answer": "Semen Volume: >= 1.4 mL | Sperm Concentration: >= 16 million/mL | Total Sperm Count: >= 39 million per ejaculate | Total Motility: >= 42% (Progressive Motility: >= 30%) | Normal Morphology: >= 4% | pH Level: >= 7.2.",
+    "category": "Lab Reference Ranges",
+    "metadata": {
+      "test_name": "Semen Analysis (WHO 6th Edition)",
+      "section": "Standard Lab Reference Ranges"
+    }
+  },
+  {
+    "id": 58,
+    "question": "According to WHO 6th Edition guidelines, what is the normal minimum sperm concentration?",
+    "answer": "The lower reference limit for sperm concentration is 16 million per milliliter (mL).",
+    "category": "Lab Reference Ranges",
+    "metadata": {
+      "test_name": "Semen Analysis",
+      "section": "Standard Lab Reference Ranges"
+    }
+  },
+  {
+    "id": 59,
+    "question": "What is the normal progressive motility percentage according to WHO 6th Edition semen standards?",
+    "answer": "Progressive motility should be at least 30% (with total motility at >= 42%).",
+    "category": "Lab Reference Ranges",
+    "metadata": {
+      "test_name": "Semen Analysis",
+      "section": "Standard Lab Reference Ranges"
+    }
+  },
+  {
+    "id": 60,
+    "question": "What is the order processing time at ReLife?",
+    "answer": "Order processing takes 1 to 2 business days.",
+    "category": "Shipping & Fulfillment",
+    "metadata": {
+      "section": "Fulfillment, Shipping, & Return Policies",
+      "related_topics": ["processing time", "order fulfillment"]
+    }
+  },
+  {
+    "id": 61,
+    "question": "What is the expected delivery time for orders across India?",
+    "answer": "Delivery takes between 3 to 7 business days across India.",
+    "category": "Shipping & Fulfillment",
+    "metadata": {
+      "section": "Fulfillment, Shipping, & Return Policies",
+      "related_topics": ["delivery time", "shipping duration"]
+    }
+  },
+  {
+    "id": 62,
+    "question": "How do ReLife customers receive tracking details for their orders?",
+    "answer": "Tracking details are automatically communicated via Email, SMS, or WhatsApp as soon as the order is dispatched.",
+    "category": "Shipping & Fulfillment",
+    "metadata": {
+      "section": "Fulfillment, Shipping, & Return Policies",
+      "related_topics": ["tracking", "order status", "notification"]
+    }
+  },
+  {
+    "id": 63,
+    "question": "What is the return window duration for ReLife orders?",
+    "answer": "Returns are accepted within 7 days of delivery.",
+    "category": "Return Policy",
+    "metadata": {
+      "section": "Fulfillment, Shipping, & Return Policies",
+      "related_topics": ["returns", "return policy", "return period"]
+    }
+  },
+  {
+    "id": 64,
+    "question": "What conditions must be met for a product return to be eligible at ReLife?",
+    "answer": "Items must be unopened, unused, and retained in their original packaging.",
+    "category": "Return Policy",
+    "metadata": {
+      "section": "Fulfillment, Shipping, & Return Policies",
+      "related_topics": ["return conditions", "refund eligibility"]
+    }
+  },
+  {
+    "id": 65,
+    "question": "Are intimate and personal care products returnable after opening?",
+    "answer": "No. Due to hygiene regulations, intimate and personal care items are strictly non-returnable once opened, unless they arrive damaged or defective.",
+    "category": "Return Policy",
+    "metadata": {
+      "section": "Fulfillment, Shipping, & Return Policies",
+      "related_topics": ["hygiene policy", "non-returnable items", "damaged goods"]
+    }
+  },
+  {
+    "id": 66,
+    "question": "What contact method should customers use to initiate a return or request support?",
+    "answer": "Customers should email relifemensclinic@gmail.com to initiate returns or ask for assistance.",
+    "category": "Customer Contact & Support",
+    "metadata": {
+      "section": "Fulfillment, Shipping, & Return Policies",
+      "related_topics": ["returns email", "customer support"]
+    }
+  },
+  {
+    "id": 67,
+    "question": "What is the complete lineup of products and packages available at ReLife?",
+    "answer": "ReLife offers 7 products and packages: 1. Erection Support Capsules (INR 1,499), 2. Timing Support Capsules (INR 1,499), 3. Sperm Booster Capsules (INR 1,299), 4. Men's Wellness Oil (INR 699), 5. Men's Performance Duo Combo (INR 2,499), 6. Men's Performance & Vitality Combo (INR 2,700), and 7. Performance & Vitality Plus Combo (INR 3,999).",
+    "category": "Product Overview",
+    "metadata": {
+      "section": "Fulfillment, Shipping, & Return Policies",
+      "related_topics": ["full catalog", "product list", "combos"]
+    }
+  },
+  {
+    "id": 68,
+    "question": "How many total products and package options does ReLife offer?",
+    "answer": "ReLife offers a total of 7 Ayurvedic wellness products and combo packages (4 individual products and 3 combo bundles).",
+    "category": "Product Overview",
+    "metadata": {
+      "section": "Fulfillment, Shipping, & Return Policies",
+      "related_topics": ["product count", "catalog"]
+    }
+  }
+]
